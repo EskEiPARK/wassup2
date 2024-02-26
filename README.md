@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello&fontSize=90&text=I'm Wupei&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=auto&text=Hello-nl-&fontSize=90&text=I'm%20Wupei&fontSize=50)
 
 # wassup2
 이스트소프트 Wassup 2기 AI 서비스기획자 양성자 부트캠프 2기
