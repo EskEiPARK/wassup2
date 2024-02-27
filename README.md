@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Welcome%20To%20EsKei's%20GitHub&animation=fadeIn&fontColor=631ce9&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About eSKei </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 성장을 지향합니다</li><li> 지속적인 배움이 가능한 업을 꿈꿉니다</li> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
