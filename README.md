@@ -1,7 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Welcome%20To%20EsKei's%20GitHub&animation=fadeIn&fontColor=631ce9&fontSize=60" />
     
- <img src="https://capsule-render.vercel.app/api?type=soft&color=5b418b&height=100&text=EST%20Soft%20WASSUP%202기%20AI%20서비스%20기획자%20부트캠프&animation=&fontColor=ffffff&fontSize=50" />    
+ <img src="https://capsule-render.vercel.app/api?type=soft&color=5b418b&height=100&text=EST%20Soft%20WASSUP%202기-nl-%20AI%20서비스%20기획자%20부트캠프&animation=&fontColor=ffffff&fontSize=50" />    
 </div>
    
     <div style="text-align: left;"> 
