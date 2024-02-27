@@ -9,7 +9,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 성장을 지향합니다</li><li> 지속적인 배움을 추구 합니다</li><li> IT업계 / 서비스 기획은 처음입니다    </div> 
     </div><br>
     
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEskEiPARK%2Fwassup2&count_bg=%2379C83D&title_bg=%23555555&icon=planet.svg&icon_color=%23E60606&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEskEiPARK%2Fwassup2&count_bg=%2379C83D&title_bg=%23555555&icon=planet.svg&icon_color=%23#CAC4C4&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)    
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
